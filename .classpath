@@ -1,0 +1,15 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar" sourcepath="M2_REPO/javax/activation/activation/1.1/activation-1.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/gdata/gdata-client/1-SNAPSHOT/gdata-client-1-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/gdata/gdata-photos/1-SNAPSHOT/gdata-photos-1-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/gnu-getopt/getopt/1.0.10/getopt-1.0.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/mail/mail/1.4/mail-1.4.jar" sourcepath="M2_REPO/javax/mail/mail/1.4/mail-1.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/opensymphony/osworkflow/2.7.0/osworkflow-2.7.0.jar"/>
+  <classpathentry kind="lib" path="/usr/local/jdk1.5.0/lib/tools.jar"/>
+</classpath>
